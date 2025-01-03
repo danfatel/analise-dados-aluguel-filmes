@@ -52,8 +52,7 @@ O banco de dados utilizado está estruturado em tabelas inter-relacionadas, repr
 ### Diagrama de Relacionamento
 
 <div align='center'>
-<img ![image](https://github.com/user-attachments/assets/f94a25d0-de8c-4b6b-98cc-d6f7f1d1023a)
-" width="60%"/>
+<img src="file:///C:/Users/Julia%20Ana/Downloads/WhatsApp%20Image%202025-01-03%20at%2015.16.14.jpeg" width="60%"/>
 </div>
 
 &nbsp;
