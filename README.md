@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="https://via.placeholder.com/1000x300" width="100%"/>
+<img src="https://www.jornalopcao.com.br/wp-content/uploads/2017/12/IMG_6916-620x350.jpg" width="100%"/>
 </div>
 
 &nbsp;
