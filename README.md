@@ -1,3 +1,10 @@
+# Introdução
+
+A Locadora Cinemática está enfrentando desafios para entender melhor o comportamento dos clientes, otimizar sua oferta de filmes e aumentar a rentabilidade de seus negócios. Neste estudo de caso, vamos investigar dados históricos de aluguel de filmes para extrair insights valiosos e fornecer recomendações estratégicas.
+
+# Problema
+
+A locadora quer entender quais são os gêneros mais alugados e suas sazonalidades, o perfil de clientes mais rentáveis e a eficiência dos filmes em termos de retorno sobre investimento.
 # Projeto de Análise de Dados - Aluguel de Filmes
 
 ## Descrição
