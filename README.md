@@ -105,7 +105,7 @@ Todos os scripts utilizados estão organizados no arquivo [`Projeto Análise de 
 
 Os resultados das análises incluem:
 
-- O preço médio geral de aluguel é **R$2.20**.
+- O preço médio geral de aluguel é **R$2,20**.
 - Os gêneros mais populares são **Drama**, **Ficção e Fantasia** e **Comédia**.
 - O filme mais alugado foi "**O Reino**" com **15** alugueis.
 
