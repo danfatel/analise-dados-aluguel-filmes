@@ -5,7 +5,6 @@ A Locadora Cinemática está enfrentando desafios para entender melhor o comport
 # Problema
 
 A locadora quer entender quais são os gêneros mais alugados e suas sazonalidades, o perfil de clientes mais rentáveis e a eficiência dos filmes em termos de retorno sobre investimento.
-# Projeto de Análise de Dados - Aluguel de Filmes
 
 ## Descrição
 Este projeto utiliza SQL para realizar análises de dados relacionadas ao aluguel de filmes. O objetivo é explorar e extrair informações significativas de um banco de dados, permitindo uma melhor compreensão dos padrões e comportamentos dos clientes.
