@@ -52,7 +52,7 @@ O banco de dados utilizado está estruturado em tabelas inter-relacionadas, repr
 ### Diagrama de Relacionamento
 
 <div align='center'>
-<img src="file:///C:/Users/Julia%20Ana/Downloads/WhatsApp%20Image%202025-01-03%20at%2015.16.14.jpeg" width="60%"/>
+<img src="file:///C:/Users/Julia%20Ana/Downloads/WhatsApp%20Image%202025-01-03%20at%2015.16.14.jpeg" width="100%"/>
 </div>
 
 &nbsp;
