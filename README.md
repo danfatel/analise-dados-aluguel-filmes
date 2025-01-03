@@ -1,4 +1,3 @@
-```markdown
 <div align='center'>
 <img src="https://via.placeholder.com/1000x300" width="100%"/>
 </div>
