@@ -4,7 +4,7 @@
 
 &nbsp;
 
-Este projeto faz parte de uma iniciativa de **Análise de Dados com SQL**, aplicando conceitos fundamentais para explorar e extrair insights de um banco de dados de aluguel de filmes.
+Este projeto faz parte de uma iniciativa de **Análise de Dados com SQL**, aplicando conceitos fundamentais para explorar e extrair insights de um banco de dados de aluguel de filmes. A ideia inicial partiu de um vídeo do canal Hashtag Treinamentos. Link: https://youtu.be/hprufLQkS2M?si=HUxkbghY2DpwfV9v.
 
 ## Introdução
 
