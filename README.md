@@ -52,7 +52,8 @@ O banco de dados utilizado está estruturado em tabelas inter-relacionadas, repr
 ### Diagrama de Relacionamento
 
 <div align='center'>
-<img src="https://via.placeholder.com/600x400" width="60%"/>
+<img ![image](https://github.com/user-attachments/assets/f94a25d0-de8c-4b6b-98cc-d6f7f1d1023a)
+" width="60%"/>
 </div>
 
 &nbsp;
