@@ -112,5 +112,3 @@ Os resultados das análises incluem:
 ## Conclusão
 
 Este projeto demonstra como consultas SQL podem ser utilizadas para explorar e extrair insights valiosos de dados. As análises realizadas fornecem suporte para decisões estratégicas em um cenário de negócio fictício.
-
-Para mais detalhes, acesse o arquivo de scripts ou entre em contato!
